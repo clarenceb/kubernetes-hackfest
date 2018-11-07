@@ -21,13 +21,13 @@ The following are the basic requirements to **start** the labs. Individual labs 
 4. [CI/CD Automation](labs/cicd-automation/README.md)
 5. [Networking](labs/networking/README.md)
 6. [Monitoring and Logging](labs/monitoring-logging/README.md)
-8. [Storage](labs/storage/README.md) - coming soon
-9. [Azure Container Instance](labs/aci/README.md)
-10. [Azure Dev Spaces](labs/dev-spaces/README.md)
+7. [Azure Container Instance](labs/aci/README.md)
+8. [Azure Dev Spaces](labs/dev-spaces/README.md)
 
 ## Optional
 
 1. [Security](labs/security/README.md)
+2. [Storage](labs/storage/README.md) - coming soon
 
 ## Extra
 
