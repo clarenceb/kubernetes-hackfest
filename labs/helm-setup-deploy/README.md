@@ -103,6 +103,8 @@ In this lab we will setup Helm in our AKS cluster and deploy our application wit
 
     * Valdiate that the `imageTag` parameter matches the tag you created in Azure Container Registry in the previous lab.
 
+    * **Note: Azure has a default limit of 5 public IPs (dynamic) per subscription.  It is recommended that you change the `type: LoadBalancer` to `ClusterIP` for all services, except `service-tracker-ui`**
+
 5. Create Kubernetes secrets for access to Cosmos DB and App Insights
 
     For now, we are creating a secret that holds the credentials for our backend database. The application deployment puts these secrets in environment variables. 
