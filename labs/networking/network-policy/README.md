@@ -129,6 +129,7 @@ delete networkpolicy deny-from-other-namespaces -n uat
 
 ## Docs / References
 
+* [Network Policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 * [Kube-Router](https://www.kube-router.io/)
 * [DENY all traffic from other namespaces](https://github.com/ahmetb/kubernetes-network-policy-recipes/blob/master/04-deny-traffic-from-other-namespaces.md)
 * [ALLOW traffic from apps using multiple selectors](https://github.com/ahmetb/kubernetes-network-policy-recipes/blob/master/10-allowing-traffic-with-multiple-selectors.md)
