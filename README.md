@@ -34,6 +34,7 @@ The following are the basic requirements to **start** the labs. Individual labs 
 1. [Service Broker](labs/service-broker/README.md)
 2. [Service Mesh w/ Distributed Tracing](labs/servicemesh-tracing/README.md)
 3. [Use Draft with Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/kubernetes-draft)
+4. [Run Azure Functions V2 on Kubernetes](https://davetheunissen.io/azure_functions_acr_and_k8s/)
 
 # Contributing
 
