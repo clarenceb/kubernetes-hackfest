@@ -9,7 +9,12 @@ This section shows how to work with Online Service Broker for Azure (OSBA) for h
 
 ## Instructions
 
-1. ?
+Coming soon...
+
+For now, follow these instructions:
+1. [Integrate with Azure-managed services using Open Service Broker for Azure (OSBA)](https://docs.microsoft.com/en-us/azure/aks/integrate-azure)
+
+2. Try the [getting started](https://github.com/kubeapps/kubeapps/blob/master/docs/user/getting-started.md) guide for adding Bitnami [KubeApps](https://kubeapps.com/) to your cluster
 
 #### Next Lab: [Azure Container Instance](labs/aci/README.md)
 
