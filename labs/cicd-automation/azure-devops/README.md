@@ -132,6 +132,8 @@ Create a second release stage called "uat" that deploys into a separate namespac
 * The "uat" stage should have a manual pre-approval condition before deploying
 * You can add yourself as the approver.
 
+![](azure-do-release-extra-credit.JPG)
+
 #### Next Lab: [Networking](../../networking/README.md)
 
 ## Troubleshooting / Debugging
