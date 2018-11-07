@@ -19,6 +19,6 @@ See if you can get Istio and distributed tracing working using that!
 
 ## Docs / References
 
-* ?
+* [Istio](https://istio.io/)
 
 #### Next Lab: [Storage](labs/storage/README.md)
