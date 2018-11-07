@@ -75,6 +75,8 @@ wget -qO- --timeout=2 http://data-api.uat:3009
 
 To exit, type `exit` and press ENTER.
 
+#### Test that you can no longer access a pod in the uat namespace from default namespace
+
 Now, create a network policy to deny traffic except from the `uat` and `kube-system` namespaces.
 
 Paste the following into a file called `deny-from-other-namespaces.yaml`:
