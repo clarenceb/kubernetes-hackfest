@@ -121,6 +121,12 @@ wget: can't connect to remote host (10.0.122.115): Connection refused
 
 To exit, type `exit` and press ENTER.
 
+#### Cleanup (optional)
+
+```
+delete networkpolicy deny-from-other-namespaces -n uat
+```
+
 ## Docs / References
 
 * [Kube-Router](https://www.kube-router.io/)
