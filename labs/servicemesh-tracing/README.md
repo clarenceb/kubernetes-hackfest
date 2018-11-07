@@ -2,6 +2,9 @@
 
 Coming soon.
 
+For now, checkout this article: https://blog.shanelee.name/2018/08/12/istio-on-azure-aks/
+See if you can get Istio and distributed tracing working using that!
+
 ## Prerequisites
 
 * Complete previous labs for [AKS](../../create-aks-cluster/README.md) and [ACR](../../build-application/README.md).
